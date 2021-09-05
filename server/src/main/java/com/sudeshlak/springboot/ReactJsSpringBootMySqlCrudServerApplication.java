@@ -9,6 +9,5 @@ public class ReactJsSpringBootMySqlCrudServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ReactJsSpringBootMySqlCrudServerApplication.class, args);
 	}
-
 }
  
